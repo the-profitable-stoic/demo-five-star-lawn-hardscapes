@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Five Star Lawn & Hardscapes",
+    "phone": "14053707581",
+    "category": "landscaping",
+    "city": "Oklahoma City",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "landscaping-dark-premium",
+      "categoryGroup": "landscaping",
+      "name": "Dark Premium",
+      "recipeFile": "landscaping/dark-premium.astro",
+      "colors": {
+        "primary": "#4ADE80",
+        "primaryDark": "#3bb266",
+        "primaryLight": "#b7f2cc",
+        "secondary": "#2A2A2A",
+        "accent": "#65e393",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "landscaping/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Dream Landscapes, Expertly Crafted",
+      "heroSubline": "Transforming Oklahoma City properties, one yard at a time. Quality landscaping delivered with local expertise.",
+      "aboutTitle": "Your Trusted Oklahoma City Landscaping Partner",
+      "aboutText": [
+        "Five Star Lawn & Hardscapes started with a simple mission: to bring beautiful, functional outdoor spaces to Oklahoma City homes. Founded by a local resident with a passion for landscaping and a deep understanding of Oklahoma's unique climate, we've grown from a small operation to a trusted name in lawn care and hardscaping.",
+        "We believe in a personalized approach to every project. From initial consultation to final installation, we work closely with our clients to understand their vision and bring it to life. Our commitment to quality craftsmanship, attention to detail, and exceptional customer service sets us apart.",
+        "We're proud to be a part of the Oklahoma City community. We source materials locally whenever possible, support local businesses, and strive to create outdoor spaces that enhance the beauty and value of our neighborhoods."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Oklahoma's climate, soil, and native plants, ensuring lasting results."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We create unique landscape designs tailored to your property and lifestyle."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only the highest quality materials to ensure durability and beauty."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to providing prompt, professional, and reliable service to every client."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Outdoor Space?",
+      "ctaSubline": "Contact us today for a free consultation and let us help you create the landscape of your dreams."
+    },
+    "services": [
+      {
+        "slug": "lawn-care-maintenance",
+        "name": "Lawn Care & Maintenance",
+        "shortDescription": "Keep your lawn healthy and vibrant with our comprehensive maintenance programs.",
+        "description": "Maintaining a healthy and attractive lawn in Oklahoma City requires more than just mowing. Our lawn care and maintenance services are tailored to the specific needs of Oklahoma lawns, taking into account our hot summers, occasional ice storms, and clay-rich soil. We offer a full range of services, including mowing, edging, fertilization, weed control, aeration, and overseeding. \n\nOur fertilization programs are designed to provide your lawn with the nutrients it needs to thrive throughout the year. We use a combination of slow-release and quick-release fertilizers to ensure consistent growth and color. Our weed control services target common Oklahoma weeds, such as dandelions, crabgrass, and clover, preventing them from taking over your lawn. Aeration helps to improve soil drainage and reduce compaction, allowing your lawn to breathe and absorb nutrients more effectively. We also offer overseeding services to fill in bare spots and thicken your lawn.\n\nWhether you need regular maintenance or a one-time service, we can help you keep your lawn looking its best. We offer flexible scheduling options and customized service plans to fit your needs and budget. Let us take the hassle out of lawn care so you can enjoy a beautiful, healthy lawn without the work.",
+        "process": [
+          "Step 1: Lawn assessment and soil testing to identify specific needs.",
+          "Step 2: Customized treatment plan developed based on assessment.",
+          "Step 3: Application of fertilizers, weed control, and other treatments.",
+          "Step 4: Regular mowing, edging, and trimming to maintain a manicured appearance."
+        ],
+        "benefits": [
+          "Healthy, vibrant lawn",
+          "Weed-free environment",
+          "Improved soil health",
+          "Increased curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I fertilize my lawn in Oklahoma City?",
+            "answer": "We recommend fertilizing your lawn 3-4 times per year, typically in the spring, summer, and fall. Our customized fertilization programs are designed to provide your lawn with the nutrients it needs throughout the year."
+          },
+          {
+            "question": "What is aeration and why is it important?",
+            "answer": "Aeration is the process of creating small holes in the soil to improve drainage and reduce compaction. This allows your lawn to breathe and absorb nutrients more effectively, resulting in a healthier, more vibrant lawn. It's especially important in Oklahoma City due to our clay-heavy soil."
+          },
+          {
+            "question": "How do you control weeds in lawns?",
+            "answer": "We use a combination of pre-emergent and post-emergent weed control treatments to prevent and eliminate weeds. Our treatments are safe for your lawn and effective against common Oklahoma weeds."
+          }
+        ]
+      },
+      {
+        "slug": "landscape-design-installation",
+        "name": "Landscape Design & Installation",
+        "shortDescription": "Create the outdoor oasis you've always dreamed of with our design and installation services.",
+        "description": "Transform your outdoor space with our landscape design and installation services. We work closely with you to create a custom landscape design that reflects your personal style and enhances the beauty and functionality of your property. From initial concept to final installation, we handle every aspect of the project with precision and care. \n\nOur landscape design services include site analysis, concept development, plant selection, hardscape design, and irrigation planning. We take into account the unique characteristics of your property, including soil type, sun exposure, and drainage, to create a design that is both beautiful and sustainable. We also consider your budget and lifestyle to ensure that the final result meets your needs and exceeds your expectations.\n\nOur installation services include planting, hardscaping, irrigation system installation, and lighting. We use only the highest quality materials and employ skilled craftsmen to ensure that every project is completed to the highest standards. Whether you're looking to create a relaxing backyard retreat, a vibrant front yard landscape, or a functional outdoor living space, we can help you bring your vision to life.",
+        "process": [
+          "Step 1: Initial consultation to discuss your vision and budget.",
+          "Step 2: Site analysis and concept development.",
+          "Step 3: Presentation of landscape design and plant selection.",
+          "Step 4: Professional installation of plants, hardscapes, and irrigation systems."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced curb appeal",
+          "Functional outdoor living space",
+          "Personalized design"
+        ],
+        "faq": [
+          {
+            "question": "How much does landscape design and installation cost?",
+            "answer": "The cost of landscape design and installation varies depending on the size and complexity of the project. We offer free consultations and estimates to provide you with an accurate cost breakdown."
+          },
+          {
+            "question": "What types of plants are best suited for Oklahoma City?",
+            "answer": "We recommend native and drought-tolerant plants that are well-adapted to Oklahoma's climate. Some popular choices include Oklahoma Redbud, Eastern Red Cedar, and Black-Eyed Susans."
+          },
+          {
+            "question": "Do you offer irrigation system installation?",
+            "answer": "Yes, we offer complete irrigation system installation services, including design, installation, and maintenance. We can help you choose the right system for your landscape and ensure that it is properly installed and maintained."
+          }
+        ]
+      },
+      {
+        "slug": "hardscaping",
+        "name": "Hardscaping",
+        "shortDescription": "Add structure and beauty to your landscape with our expert hardscaping services.",
+        "description": "Enhance your outdoor living space with our professional hardscaping services. We specialize in creating beautiful and functional hardscapes that add value and style to your property. From patios and walkways to retaining walls and outdoor kitchens, we can design and install a wide range of hardscaping features to suit your needs and preferences. \n\nOur hardscaping services include design, material selection, and installation. We work with a variety of materials, including pavers, natural stone, brick, and concrete, to create unique and durable hardscapes that complement your landscape. We also offer custom design services to create one-of-a-kind features that reflect your personal style. \n\nWhether you're looking to create a relaxing outdoor living space, a functional walkway, or a sturdy retaining wall, we can help you bring your vision to life. Our experienced team will work closely with you to ensure that every project is completed to the highest standards of quality and craftsmanship.",
+        "process": [
+          "Step 1: Consultation to discuss your hardscaping needs and preferences.",
+          "Step 2: Design and material selection.",
+          "Step 3: Site preparation and excavation.",
+          "Step 4: Professional installation of hardscaping features."
+        ],
+        "benefits": [
+          "Increased property value",
+          "Enhanced outdoor living space",
+          "Improved functionality",
+          "Durable and long-lasting features"
+        ],
+        "faq": [
+          {
+            "question": "What types of hardscaping materials do you offer?",
+            "answer": "We offer a wide range of hardscaping materials, including pavers, natural stone, brick, and concrete. We can help you choose the right materials for your project based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do you offer custom hardscaping designs?",
+            "answer": "Yes, we offer custom hardscaping design services to create unique and personalized features that reflect your personal style."
+          },
+          {
+            "question": "How long does it take to install a patio?",
+            "answer": "The installation time for a patio varies depending on the size and complexity of the project. We will provide you with an estimated completion time during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-lighting",
+        "name": "Outdoor Lighting",
+        "shortDescription": "Extend the enjoyment of your outdoor space with our custom lighting solutions.",
+        "description": "Illuminate your landscape and create a warm and inviting atmosphere with our outdoor lighting services. We specialize in designing and installing custom lighting systems that enhance the beauty and functionality of your outdoor space. From pathway lighting and accent lighting to security lighting and patio lighting, we can create a lighting design that meets your specific needs and preferences.\n\nOur outdoor lighting services include design, installation, and maintenance. We use only high-quality, energy-efficient fixtures and components to ensure long-lasting performance and minimal energy consumption. We also offer smart lighting solutions that allow you to control your outdoor lights from your smartphone or tablet.\n\nWhether you're looking to create a relaxing ambiance for outdoor entertaining, improve the safety and security of your property, or simply enhance the beauty of your landscape, we can help you bring your vision to life. Our experienced team will work closely with you to ensure that every project is completed to the highest standards of quality and craftsmanship.",
+        "process": [
+          "Step 1: Consultation to discuss your lighting needs and preferences.",
+          "Step 2: Lighting design and fixture selection.",
+          "Step 3: Professional installation of lighting system.",
+          "Step 4: System testing and adjustments."
+        ],
+        "benefits": [
+          "Enhanced safety and security",
+          "Increased curb appeal",
+          "Extended outdoor enjoyment",
+          "Energy-efficient lighting solutions"
+        ],
+        "faq": [
+          {
+            "question": "What types of outdoor lighting fixtures do you offer?",
+            "answer": "We offer a wide range of outdoor lighting fixtures, including pathway lights, accent lights, floodlights, and patio lights. We can help you choose the right fixtures for your project based on your budget and aesthetic preferences."
+          },
+          {
+            "question": "Do you offer smart lighting solutions?",
+            "answer": "Yes, we offer smart lighting solutions that allow you to control your outdoor lights from your smartphone or tablet. This allows you to easily adjust the brightness, color, and timing of your lights."
+          },
+          {
+            "question": "How much does it cost to install outdoor lighting?",
+            "answer": "The cost of outdoor lighting installation varies depending on the size and complexity of the project. We will provide you with a detailed estimate during the consultation process."
+          }
+        ]
+      },
+      {
+        "slug": "irrigation-systems",
+        "name": "Irrigation Systems",
+        "shortDescription": "Ensure efficient and reliable watering with our irrigation system installation and repair services.",
+        "description": "Keep your lawn and landscape healthy and hydrated with our professional irrigation system services. We specialize in designing, installing, and maintaining irrigation systems that provide efficient and reliable watering for your property. From sprinkler systems and drip irrigation to smart controllers and rain sensors, we can create a custom irrigation solution that meets your specific needs and conserves water.\n\nOur irrigation system services include design, installation, repair, and maintenance. We use only high-quality components and employ skilled technicians to ensure that your system is properly installed and maintained. We also offer system upgrades and retrofits to improve efficiency and performance.\n\nWhether you're looking to install a new irrigation system, repair an existing system, or upgrade to a more efficient system, we can help you. Our experienced team will work closely with you to ensure that your irrigation system is properly designed, installed, and maintained for optimal performance.",
+        "process": [
+          "Step 1: Site assessment and water audit.",
+          "Step 2: Irrigation system design and component selection.",
+          "Step 3: Professional installation of irrigation system.",
+          "Step 4: System testing and adjustments."
+        ],
+        "benefits": [
+          "Efficient water usage",
+          "Healthy lawn and landscape",
+          "Reduced water bills",
+          "Automated watering schedule"
+        ],
+        "faq": [
+          {
+            "question": "What type of irrigation system is best for my property?",
+            "answer": "The best type of irrigation system for your property depends on several factors, including the size of your property, the type of plants you have, and your water pressure. We can help you choose the right system based on your specific needs."
+          },
+          {
+            "question": "Do you offer irrigation system repair services?",
+            "answer": "Yes, we offer complete irrigation system repair services. We can diagnose and repair a wide range of issues, including leaks, broken sprinkler heads, and malfunctioning controllers."
+          },
+          {
+            "question": "How often should I have my irrigation system serviced?",
+            "answer": "We recommend having your irrigation system serviced at least once a year to ensure that it is operating efficiently and effectively. We offer comprehensive maintenance plans to keep your system in top condition."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Protect your property from water damage with our expert drainage solutions.",
+        "description": "Address water runoff and erosion issues with our expert drainage solutions. Oklahoma City's weather patterns, including heavy rainfall and occasional flash floods, can pose significant challenges to proper drainage. We design and install drainage systems to protect your property from water damage. We specialize in creating effective drainage solutions that prevent water from pooling around your foundation, eroding your landscape, or causing other problems. \n\nOur drainage services include site assessment, system design, and installation. We offer a variety of drainage solutions, including French drains, surface drains, and sump pumps. We also offer grading and leveling services to improve drainage and prevent water from pooling. \n\nWhether you're experiencing water damage to your foundation, erosion problems in your landscape, or simply want to improve the drainage on your property, we can help. Our experienced team will work closely with you to assess your needs and create a custom drainage solution that meets your specific requirements.",
+        "process": [
+          "Step 1: Site assessment to identify drainage problems.",
+          "Step 2: Design of custom drainage solution.",
+          "Step 3: Professional installation of drainage system.",
+          "Step 4: System testing and adjustments."
+        ],
+        "benefits": [
+          "Protection from water damage",
+          "Prevention of erosion",
+          "Improved property value",
+          "Enhanced landscape health"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of poor drainage?",
+            "answer": "Common signs of poor drainage include water pooling around your foundation, erosion in your landscape, and soggy areas in your lawn."
+          },
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel that contains a perforated pipe. It is used to redirect surface and subsurface water away from your property."
+          },
+          {
+            "question": "How much does it cost to install a drainage system?",
+            "answer": "The cost of installing a drainage system varies depending on the size and complexity of the project. We will provide you with a detailed estimate during the consultation process."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Oklahoma City",
+        "slug": "oklahoma-city-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes is proud to serve the residents and businesses of Oklahoma City. We offer a comprehensive range of landscaping services, from routine lawn maintenance and seasonal cleanups to complete landscape design and installation. Our team is dedicated to providing top-quality workmanship and exceptional customer service throughout the OKC metro area.\n\nWe understand the unique challenges and opportunities presented by Oklahoma's climate and soil conditions. Our experienced professionals are equipped to create and maintain beautiful, sustainable landscapes that thrive in our local environment. Whether you're looking to enhance your curb appeal, create an inviting outdoor living space, or simply keep your lawn looking its best, Five Star Lawn & Hardscapes is here to help.",
+        "localContext": "Oklahoma City is a vibrant and growing metropolitan area with a diverse range of architectural styles and landscape preferences. We tailor our services to meet the specific needs and aesthetic desires of our OKC clients.",
+        "nearbyAreas": [
+          "Edmond",
+          "Moore",
+          "Norman"
+        ]
+      },
+      {
+        "city": "Edmond",
+        "slug": "edmond-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes extends its expert landscaping services to the thriving community of Edmond, Oklahoma. We provide a full spectrum of services to homeowners and businesses alike, including lawn care, landscape design, hardscaping, and irrigation solutions. Our commitment is to deliver exceptional results that enhance the beauty and value of your property.\n\nEdmond's well-maintained neighborhoods and beautiful parks inspire us to create landscapes that complement the city's aesthetic. We use only the highest quality materials and proven techniques to ensure your landscape remains healthy and vibrant year-round. From custom patios to lush garden beds, we can bring your landscaping vision to life.",
+        "localContext": "Edmond is known for its family-friendly atmosphere and beautifully landscaped properties. We understand the importance of maintaining a pristine outdoor space in this community and strive to exceed expectations with every project.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Guthrie",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Norman",
+        "slug": "norman-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes is delighted to offer our professional landscaping services to the residents and businesses of Norman, Oklahoma. We provide a wide range of services, including lawn maintenance, landscape design and installation, hardscaping, and seasonal services. Our goal is to create and maintain beautiful outdoor spaces that enhance the quality of life in the Norman community.\n\nAs a college town with a strong sense of community, Norman values well-maintained properties and inviting outdoor spaces. We are committed to providing reliable and affordable landscaping services that meet the unique needs of our Norman clients. Whether you're a homeowner looking to improve your curb appeal or a business seeking to create a welcoming environment, we are here to help.",
+        "localContext": "Norman is a dynamic city with a diverse mix of residential and commercial properties. We understand the importance of creating landscapes that reflect the unique character of each property and contribute to the overall beauty of the community.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Moore",
+          "Purcell"
+        ]
+      },
+      {
+        "city": "Moore",
+        "slug": "moore-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes proudly serves the residents and businesses of Moore, Oklahoma, with top-quality landscaping services. We offer a comprehensive range of solutions, including lawn care, landscape design, hardscaping, and irrigation services. Our team is dedicated to providing exceptional workmanship and customer service to the Moore community.\n\nWe understand the importance of creating beautiful and functional outdoor spaces that can withstand Oklahoma's weather conditions. Our experienced professionals are equipped to design and install landscapes that thrive in our local environment. From drought-tolerant landscaping to storm-resistant hardscaping, we can help you create an outdoor space that is both beautiful and resilient.",
+        "localContext": "Moore is a growing community with a strong sense of resilience and community spirit. We are committed to providing landscaping services that enhance the beauty and value of properties in Moore.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Norman",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Yukon",
+        "slug": "yukon-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes provides professional landscaping services to the residents and businesses of Yukon, Oklahoma. We offer a full range of services, including lawn maintenance, landscape design, hardscaping, and seasonal cleanups. Our goal is to create and maintain beautiful outdoor spaces that enhance the quality of life in the Yukon community.\n\nWith its strong agricultural heritage, Yukon values well-maintained lawns and gardens. We are committed to providing reliable and affordable landscaping services that meet the unique needs of our Yukon clients. Whether you're looking to improve your curb appeal, create an inviting outdoor living space, or simply keep your lawn looking its best, we are here to help.",
+        "localContext": "Yukon is a family-friendly community with a strong sense of pride in its homes and gardens. We understand the importance of creating landscapes that reflect the unique character of each property and contribute to the overall beauty of the community.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Mustang",
+          "Piedmont"
+        ]
+      },
+      {
+        "city": "Mustang",
+        "slug": "mustang-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes extends its expert landscaping services to the growing community of Mustang, Oklahoma. We offer a comprehensive range of services, including lawn care, landscape design, hardscaping, and irrigation solutions. Our commitment is to deliver exceptional results that enhance the beauty and value of your property.\n\nMustang's expanding neighborhoods and community parks inspire us to create landscapes that complement the city's aesthetic. We use only the highest quality materials and proven techniques to ensure your landscape remains healthy and vibrant year-round. From custom patios to lush garden beds, we can bring your landscaping vision to life.",
+        "localContext": "Mustang is a rapidly developing city with a focus on creating attractive and well-maintained residential areas. We understand the importance of a pristine outdoor space in this community and strive to exceed expectations with every project.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Yukon",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Choctaw",
+        "slug": "choctaw-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes is pleased to offer professional landscaping services to the residents and businesses of Choctaw, Oklahoma. We provide a wide range of services, including lawn maintenance, landscape design and installation, hardscaping, and seasonal services. Our goal is to create and maintain beautiful outdoor spaces that enhance the quality of life in the Choctaw community.\n\nChoctaw's rural charm and close-knit community values well-maintained properties and inviting outdoor spaces. We are committed to providing reliable and affordable landscaping services that meet the unique needs of our Choctaw clients. Whether you're a homeowner looking to improve your curb appeal or a business seeking to create a welcoming environment, we are here to help.",
+        "localContext": "Choctaw is a community that values its natural beauty and strives to maintain a peaceful and welcoming environment. We understand the importance of creating landscapes that blend seamlessly with the surrounding landscape.",
+        "nearbyAreas": [
+          "Midwest City",
+          "Nicoma Park",
+          "Harrah"
+        ]
+      },
+      {
+        "city": "Midwest City",
+        "slug": "midwest-city-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes proudly serves the residents and businesses of Midwest City, Oklahoma, with top-quality landscaping services. We offer a comprehensive range of solutions, including lawn care, landscape design, hardscaping, and irrigation services. Our team is dedicated to providing exceptional workmanship and customer service to the Midwest City community.\n\nWe understand the importance of creating beautiful and functional outdoor spaces that can withstand Oklahoma's weather conditions. Our experienced professionals are equipped to design and install landscapes that thrive in our local environment. From drought-tolerant landscaping to storm-resistant hardscaping, we can help you create an outdoor space that is both beautiful and resilient.",
+        "localContext": "Midwest City is a vibrant and diverse community with a strong connection to Tinker Air Force Base. We are committed to providing landscaping services that enhance the beauty and value of properties in Midwest City.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Del City",
+          "Choctaw"
+        ]
+      },
+      {
+        "city": "Del City",
+        "slug": "del-city-ok",
+        "state": "OK",
+        "content": "Five Star Lawn & Hardscapes extends its expert landscaping services to the community of Del City, Oklahoma. We offer a full spectrum of services to homeowners and businesses alike, including lawn care, landscape design, hardscaping, and irrigation solutions. Our commitment is to deliver exceptional results that enhance the beauty and value of your property.\n\nDel City's established neighborhoods inspire us to create landscapes that complement the city's residential character. We use only the highest quality materials and proven techniques to ensure your landscape remains healthy and vibrant year-round. From custom patios to lush garden beds, we can bring your landscaping vision to life.",
+        "localContext": "Del City is known for its well-maintained homes and a strong sense of community. We understand the importance of maintaining a pristine outdoor space and strive to exceed expectations with every project.",
+        "nearbyAreas": [
+          "Oklahoma City",
+          "Midwest City",
+          "Moore"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Lawn Care & Maintenance",
+        "text": "Five Star Lawn & Hardscapes has been taking care of my lawn for two years now, and I couldn't be happier. My lawn is always green and healthy, and they are very responsive to any questions or concerns I have. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Landscape Design & Installation",
+        "text": "We hired Five Star to redesign our backyard, and they did an amazing job. The design is beautiful, and the installation was done quickly and professionally. There were a couple of minor snags, but they addressed them promptly and made sure we were satisfied.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Hardscaping",
+        "text": "Five Star built a beautiful patio in our backyard. The quality of the work is excellent, and they were very easy to work with. They listened to our ideas and provided valuable suggestions. We're thrilled with the result!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Outdoor Lighting",
+        "text": "The outdoor lighting Five Star installed has completely transformed our backyard. It's now a beautiful and inviting space that we can enjoy in the evenings. The team was professional, efficient, and the price was reasonable.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Irrigation Systems",
+        "text": "Five Star installed a new sprinkler system for us, and it's been a game-changer. Our lawn is much healthier, and we're saving water. The installation was quick and clean, and they explained how to use the system thoroughly. We had one minor issue with a sprinkler head, but they came out and fixed it promptly.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After years of dealing with water pooling in our backyard after every rain, we finally called Five Star. They installed a French drain, and it's completely solved the problem. They were professional, knowledgeable, and the price was fair. Highly recommend!",
+        "date": "2024-12-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Five Star Lawn & Hardscapes | OKC Landscaping",
+        "description": "Expert landscaping in Oklahoma City. Design, installation, maintenance & more. Transform your outdoor space today!"
+      },
+      "about": {
+        "title": "About Five Star Lawn & Hardscapes | OKC",
+        "description": "Learn about Five Star Lawn & Hardscapes in Oklahoma City. Our mission, values, and commitment to quality landscaping."
+      },
+      "services": {
+        "title": "Landscaping Services | Five Star Lawn & Hardscapes",
+        "description": "Comprehensive landscaping services in OKC: lawn care, design, hardscaping, outdoor lighting, drainage & irrigation."
+      },
+      "contact": {
+        "title": "Contact Five Star Lawn & Hardscapes | OKC",
+        "description": "Contact Five Star Lawn & Hardscapes for landscaping services in Oklahoma City. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "Five Star Lawn & Hardscapes Reviews | OKC",
+        "description": "Read reviews for Five Star Lawn & Hardscapes in Oklahoma City. See what our customers say about our landscaping services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Five Star Lawn & Hardscapes",
+        "description": "Landscaping services in Oklahoma City and surrounding areas. See our service area map and contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "lawn-care-maintenance": "/images/service-lawn-care-maintenance.webp",
+      "landscape-design-installation": "/images/service-landscape-design-installation.webp",
+      "hardscaping": "/images/service-hardscaping.webp",
+      "outdoor-lighting": "/images/service-outdoor-lighting.webp",
+      "irrigation-systems": "/images/service-irrigation-systems.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp"
+    },
+    "servicesResponsive": {
+      "lawn-care-maintenance": {
+        "src": "/images/service-lawn-care-maintenance.webp",
+        "srcset": "/images/service-lawn-care-maintenance-400w.webp 400w, /images/service-lawn-care-maintenance-800w.webp 800w, /images/service-lawn-care-maintenance-1200w.webp 1200w, /images/service-lawn-care-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "landscape-design-installation": {
+        "src": "/images/service-landscape-design-installation.webp",
+        "srcset": "/images/service-landscape-design-installation-400w.webp 400w, /images/service-landscape-design-installation-800w.webp 800w, /images/service-landscape-design-installation-1200w.webp 1200w, /images/service-landscape-design-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardscaping": {
+        "src": "/images/service-hardscaping.webp",
+        "srcset": "/images/service-hardscaping-400w.webp 400w, /images/service-hardscaping-800w.webp 800w, /images/service-hardscaping-1200w.webp 1200w, /images/service-hardscaping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-lighting": {
+        "src": "/images/service-outdoor-lighting.webp",
+        "srcset": "/images/service-outdoor-lighting-400w.webp 400w, /images/service-outdoor-lighting-800w.webp 800w, /images/service-outdoor-lighting-1200w.webp 1200w, /images/service-outdoor-lighting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "irrigation-systems": {
+        "src": "/images/service-irrigation-systems.webp",
+        "srcset": "/images/service-irrigation-systems-400w.webp 400w, /images/service-irrigation-systems-800w.webp 800w, /images/service-irrigation-systems-1200w.webp 1200w, /images/service-irrigation-systems.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
